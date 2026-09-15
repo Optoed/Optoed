@@ -1,6 +1,6 @@
 # Hi, I'm Petr 👋
 
-I'm a **Go Backend Developer**, CS student at **Saratov State University**, and a software engineer focused on **backend systems and applied AI**.
+I'm a **Go Backend Developer**, CS student at **Saratov State University** and Master of **ITMO University**, and a software engineer focused on **backend systems and applied AI**.
 
 Currently working as a Go backend developer in the **investment domain**.
 
